@@ -11,7 +11,7 @@ TX  kobo <-> RX  HM-10
 
 RX  kobo <-> TX  HM-10
 
-GND kobo <-> VCC HM-10
+GND kobo <-> GND HM-10
 
 Software on kobo:
 
@@ -32,7 +32,7 @@ Configure module:
 
 6. BLE pairing should be complete
 
-7. choose "Fly", go to "Devices" and select ttymxc0/ttymxc1/ttymxc2 with 115200 baud
+7. choose "Fly", go to "Devices" and select ttymxc0/ttymxc1/ttymxc2 with 115200 baud, driver LXNAV
 
 8. press "Monitor", data should come in now
 
