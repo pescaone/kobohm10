@@ -44,4 +44,4 @@ Major Pitfalls:
 
 - HM-10/HM-11 modules with software version below V605 won't work.
 
-- The bootloader of the kobo runs on ttymxc0 with 115200 baud. At powerup, it generates enough traffic to confuse the HM-10/HM-11 module. It's necessary to reset the module after power up of the kobo to configure it. Once the pairing is complete, this is no more necessary.
+- The bootloader of the kobo runs on ttymxc0 with 115200 baud. At powerup, it generates enough traffic to confuse the HM-10/HM-11 module. It's necessary to reset the module after power up the kobo to configure it. Once the pairing is complete, this is no more necessary.
