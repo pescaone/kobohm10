@@ -24,7 +24,7 @@ Configure module:
 
 2. restart kobo
 
-3. XC-Tracer config enable BLE string, driver LXWP0
+3. power on XC-Tracer (config enable BLE string, driver LXWP0)
 
 4. reset module (connect reset pin to GND or disconnect power of module)
 
